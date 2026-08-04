@@ -22,9 +22,9 @@ Email Me 👉 ✉️ **lucky100gpt.com** For Collaboration/Project or Anything E
 
 ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
 
-
-![snake gif](https://github.com/luckygupta100/luckygupta100/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/luckygupta100/luckygupta100/blob/output/github-snake-dark.svg)  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
