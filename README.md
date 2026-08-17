@@ -1,12 +1,12 @@
-# 💫 Hi 👋, I'm Lucky Gupta
+#Hi, I'm Lucky Gupta
 **A passionate Full Stack Web Dev  Engineer** 
 
-Email Me 👉 ✉️ **lucky100gpt.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me  ✉️ **lucky100gpt.com** For Collaboration/Project or Anything Else. 
 
-- 🌱 **I’m currently learning:**backend development
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** lucky100gpt@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-  **I’m currently learning:**backend development
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** lucky100gpt@gmail.com
+-  **Fun fact:** I Love Tech and Tech Love Me
 
 
 
